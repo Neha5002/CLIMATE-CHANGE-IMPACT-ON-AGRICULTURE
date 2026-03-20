@@ -1,5 +1,5 @@
-#Climate Change Impact on Agriculture
-#Project Overview
+# Climate Change Impact on Agriculture
+# Project Overview
 
 This project explores the impact of climate change on agricultural productivity using an interactive Tableau dashboard. It analyzes how environmental factors such as temperature and rainfall influence crop yield across different regions in 2024.
 
@@ -18,7 +18,7 @@ Crop yield data
 
 Regional agricultural information
 
-#Objectives
+# Objectives
 
 Analyze the effect of temperature on crop yield
 
@@ -30,7 +30,7 @@ Compare crop performance under different conditions
 
 Evaluate agricultural productivity trends for 2024
 
-#Dashboard Features
+# Dashboard Features
 
 Temperature vs Crop Yield visualization
 
@@ -42,7 +42,7 @@ Trend analysis of agricultural productivity
 
 Interactive filters for region, crop type, and climate factors
 
-#Dataset Information
+# Dataset Information
 
 Format: CSV
 
@@ -54,7 +54,7 @@ Data Category: Climate & Agriculture
 
 Usage: Used for building Tableau visualizations and insights
 
-#Tools & Skills Used
+# Tools & Skills Used
 
 Tableau – Dashboard creation & data visualization
 
@@ -64,7 +64,7 @@ Data Analysis – Trend analysis, comparison, and insights generation
 
 Data Visualization – Creating interactive and meaningful charts
 
-#Key Insights
+# Key Insights
 
 Climate change has a significant impact on crop productivity
 
@@ -74,7 +74,7 @@ Some regions are more vulnerable to extreme climate conditions
 
 Visualization helps in identifying patterns and risk areas effectively
 
-#Project Outcomes
+# Project Outcomes
 
 Developed an interactive Tableau dashboard for agricultural analysis
 
@@ -84,7 +84,7 @@ Provided insights to support sustainable farming decisions
 
 Enhanced skills in data visualization and storytelling
 
-#Future Improvements
+# Future Improvements
 
 Include multi-year data for deeper trend analysis
 
@@ -94,7 +94,7 @@ Integrate real-time weather data
 
 Enhance dashboard with advanced visualizations and KPIs
 
-#Conclusion
+# Conclusion
 
 This project highlights the growing impact of climate change on agriculture. By leveraging data visualization tools like Tableau, it becomes easier to understand complex relationships between climate factors and crop productivity.
 
